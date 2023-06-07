@@ -3102,5 +3102,15 @@
         "os": [],
         "stars": 4,
         "install-notes": "Dependency: auto-editor (pip install auto-editor)"
+    },
+    "github:Ajatt-Tools/videoclip": {
+        "name": "videoclip",
+        "desc": "Easily create video and audio clips with mpv in a few keypresses. Videoclips are saved as .mp4 or .webm. Subtitles can be embedded into the clips.",
+        "url": "https://github.com/Ajatt-Tools/videoclip",
+        "type": "lua script",
+        "install": "git",
+        "receiving_url": "https://github.com/Ajatt-Tools/videoclip",
+        "install_dir": "github/ajatt-tools/videoclip",
+        "os": []
     }
 }
